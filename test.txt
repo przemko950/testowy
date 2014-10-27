@@ -1,1 +1,2 @@
 to jest tekst
+to jest kolejna linijka tekstu:)
